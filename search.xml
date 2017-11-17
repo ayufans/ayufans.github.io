@@ -3,6 +3,64 @@
   
     
     <entry>
+      <title><![CDATA[技规目录]]></title>
+      <url>/2017/11/16/%E6%8A%80%E8%A7%84%E7%9B%AE%E5%BD%95/</url>
+      <content type="html"><![CDATA[<h1 id="目-录"><a href="#目-录" class="headerlink" title="目    录"></a>目    录</h1><hr>
+<h2 id="总-则"><a href="#总-则" class="headerlink" title="总    则"></a><a href="https://ayufans.github.io/2017/11/15/%E6%8A%80%E8%A7%84%E6%80%BB%E5%88%99/" target="_blank" rel="noopener">总    则</a></h2><h2 id="第一编-技术设备"><a href="#第一编-技术设备" class="headerlink" title="第一编  技术设备"></a>第一编  技术设备</h2><h2 id="第一章-基本要求"><a href="#第一章-基本要求" class="headerlink" title="第一章  基本要求"></a>第一章  <a href="https://ayufans.github.io/2017/11/16/%E6%8A%80%E8%A7%84%E7%AC%AC%E4%B8%80%E7%AB%A0/" target="_blank" rel="noopener">基本要求</a></h2><ul>
+<li>基建、制造及其验收交接</li>
+<li>限界、安全保护区</li>
+<li>养护维修及检查</li>
+<li>救援设备</li>
+<li>灾害防护</li>
+<li>行车安全监测设备</li>
+</ul>
+<h2 id="第二章-线路、桥梁及隧道"><a href="#第二章-线路、桥梁及隧道" class="headerlink" title="第二章  线路、桥梁及隧道"></a>第二章  <a href="https://ayufans.github.io/2017/11/16/%E6%8A%80%E8%A7%84%E7%AC%AC%E4%BA%8C%E7%AB%A0/" target="_blank" rel="noopener">线路、桥梁及隧道</a></h2><ul>
+<li>一般要求</li>
+<li>铁路线路</li>
+<li>线路平面及纵断面</li>
+<li>路  基</li>
+<li>桥隧建（构）筑物</li>
+<li>轨  道</li>
+<li>道口、交叉及线路接轨</li>
+<li>安全线及避难线</li>
+<li>防护栅栏</li>
+<li>声 屏 障</li>
+</ul>
+<h2 id="第三章-信号、通信"><a href="#第三章-信号、通信" class="headerlink" title="第三章  信号、通信"></a>第三章  <a href="https://ayufans.github.io/2017/11/16/%E6%8A%80%E8%A7%84%E7%AC%AC%E4%B8%89%E7%AB%A0/" target="_blank" rel="noopener">信号、通信</a></h2><ul>
+<li>一般要求</li>
+<li>信  号</li>
+<li>联  锁</li>
+<li>闭  塞</li>
+<li>列车调度指挥系统、调度集中系统</li>
+<li>机车信号、列车运行监控装置、轨道车运行控制设备</li>
+<li>CTCS-2级列控系统    </li>
+<li>信号集中监测系统    </li>
+<li>驼峰信号</li>
+<li>道口自动信号及自动通知</li>
+<li>通  信    </li>
+<li>承 载 网    </li>
+<li>业 务 网    </li>
+<li>支 撑 网    </li>
+<li>信号、通信线路及其他</li>
+</ul>
+]]></content>
+      
+        <categories>
+            
+            <category> 技规 </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> 技规 </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
       <title><![CDATA[第三章  信号、通信]]></title>
       <url>/2017/11/16/%E6%8A%80%E8%A7%84%E7%AC%AC%E4%B8%89%E7%AB%A0/</url>
       <content type="html"><![CDATA[<h1 id="第三章-信号、通信"><a href="#第三章-信号、通信" class="headerlink" title="第三章  信号、通信"></a>第三章  信号、通信</h1><h2 id="一般要求"><a href="#一般要求" class="headerlink" title="一般要求"></a>一般要求</h2><p>　　<strong>第62条</strong>  为保证信号、通信设备的质量，应设电务段、通信段等电务维修机构。<br>　　电务段、通信段管辖范围应根据信号、通信设备等条件确定。<br>　　<strong>第63条</strong>  电务维修机构应具备设备检修、修配、测试场所，配置相应的仪器仪表、工装机具以及交通工具、应急通信设备等。<br>　　在动车组、机车和轨道车的检修地点应设列控车载设备、机车信号、列车运行监控装置（LKJ）、轨道车运行控制设备（GYK）及车载无线通信设备等的检修与测试场所。设有车辆减速器的驼峰调车场应设驼峰机械修配场所。<br>　　铁路电务设备维护工作应按设备技术状态进行维修，并按周期进行中修和大修。电务车载设备结合动车组、机车和轨道车各级检修修程，同步进行检修。<br>　　<strong>第64条</strong>  对设有加锁加封的信号设备，应加锁加封，必要时可设置计数器，使用人员应负责其完整。对加封设备启封使用或对设有计数器的设备每计数一次时，使用人员均须在《行车设备检查登记簿》内登记，写明启封或计数原因。加封设备启封使用后，应及时通知信号部门加封。<br>　　使用计算机技术控制的信号设备实现加锁加封功能时，应使用密码方式操作。<br>　　<strong>第65条</strong>  集中联锁车站和自动闭塞区段应装设信号集中监测系统，对信号设备运用状态进行实时监测，实现故障及超限告警。<br>　　<strong>第66条</strong>  信号、通信设备及机房，应采取综合防雷措施，设置机房专用空调。信号及通信设备，应装有防止强电及雷电危害的浪涌保护器等保安设备，电子设备应符合电磁兼容有关规定。<br>　    <strong>第67条</strong>  机车信号设备、列车运行监控装置（LKJ）、轨道车运行控制设备（GYK）和车载无线通信设备等的电源，均应取自车上直流控制电源系统，直流输出电压为110 V时，电压波动允许范围为-20%～+5%。</p>
